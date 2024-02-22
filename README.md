@@ -23,6 +23,7 @@ This project combines Haar Cascade for face detection and a custom-trained Convo
 - OpenCV
 - TensorFlow/Keras
 - jupyter notebook
+- dataset : "https://www.kaggle.com/datasets/omkargurav/face-mask-dataset"
 
 ## Usage
 
